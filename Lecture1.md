@@ -25,12 +25,22 @@ with the methods that operate in that data, into a single unit.
 ## Abstraction
 
 Abstraction is the process of taking away or removing characteristics from something 
-in order to reduce it tp a set 
+in order to reduce it:
+- it helps with preventing code repetition
+- improve flexibility
+- enables teamwork
+- 
 
 ## Inheritance
 
-Inheritance is...
+Inheritance is the cincept that when a class of objects is defined, any subclass that 
+is defined can ingerit the defintions of one or more general classes.
+- modular code base.
+- code reusability.
+- less develpment.
 
 ## Polymorphism
 
-Polymorphism is...
+Polymorphism is the provision of a single inteface to entities of different types, or 
+the use of a single symbole tp represent mutiple different types. 
+polymorphism is essential to opp where object are defined as clasees.
